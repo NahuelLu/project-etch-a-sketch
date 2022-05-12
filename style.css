@@ -1,0 +1,13 @@
+.grid-container{
+    width:600px;
+    height: 600px;
+    display: flex;
+    flex-wrap: wrap;
+}
+.square{
+    flex:auto;
+    background: blue;
+}
+.changeColor{
+    background: red;
+}
